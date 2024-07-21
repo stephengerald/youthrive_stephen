@@ -1,0 +1,40 @@
+
+/** sec2 **/
+
+#cform input, label {
+    display: block;
+    margin: 10px 20px;
+    color: blue;
+    width: 50%;
+    float: right;
+}
+#cform input {
+    font-size: 20px;
+}
+#cont {
+    width: 49%;
+    text-align: center;
+}
+h1, p, button {
+    padding: 50px 0px;
+}
+button {
+    padding: 20px;
+    width: 200px;
+    border-radius: 20px;
+}
+
+#cimg {
+    background-color: chocolate;
+    width: 50%;
+    
+}
+#sec2 div{
+    float: left;
+}
+#cform {
+    width: 50%;
+}
+#sec2 {
+    padding-top: 50px;
+}
